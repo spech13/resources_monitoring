@@ -1,0 +1,5 @@
+Cntl + resmon - open resources monitoring
+
+CP --> related descriptors:
+	1. display processes related with specified object
+	2. close related processes
